@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# Package files
+package-lock.json
+package.json
+
+
+# Other
+.DS_Store
